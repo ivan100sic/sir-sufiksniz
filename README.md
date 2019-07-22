@@ -1,2 +1,2 @@
-# sir-sufiksniz
-SIR 2 - Sufiks niz
+# Sufiks niz
+Studijski istrazivacki rad br. 2 - Sufiks niz
